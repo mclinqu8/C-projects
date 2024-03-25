@@ -1,0 +1,15 @@
+2014 Salad   1675   Cajun Chicken Salad
+4012 Beverage 155  Coffee
+3041 Beverage 175 Lemonade
+7800 Dessert  565 Peach Cobbler
+9087 Appetizer 789 Nachos
+7865 Entree  2195 Grilled Salmon
+3054 Dessert  475  Lemon Chiffon Cake
+1013 Entree  1095  Spaghetti
+7654 Appetizer  Cheese Potatoes
+4857 Appetizer 890 Crab Dip
+5103 Beverage   199 Raspberry Tea
+5678 Dessert  675  Hot Fudge Sundae
+6987 Sandwich  890 Grilled Cheese
+6980 Sandwich 1045 Cheeseburger
+9017 Salad   1390 Chopped Salad

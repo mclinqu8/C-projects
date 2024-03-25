@@ -1,0 +1,9 @@
+cmd> list category Beverage
+ID   Name                 Category        Cost
+1897 Iced Tea             Beverage        $  1.99
+2095 Mountain Dew         Beverage        $  1.99
+3041 Lemonade             Beverage        $  1.75
+4012 Coffee               Beverage        $  1.55
+5103 Raspberry Tea        Beverage        $  1.99
+
+cmd> quit

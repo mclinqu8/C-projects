@@ -1,0 +1,5 @@
+1897 Beverage 199  Iced Tea
+2095 Beverage 199 Mountain Dew
+3045 Dessert  475  Chocolate Cream Pie
+1012 Entree  2755  Surf and Turf
+2004 Salad      675   Wedge Salad

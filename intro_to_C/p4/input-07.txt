@@ -1,0 +1,5 @@
+add 6987 1
+add 3041 1
+add 5678 1
+list order
+quit

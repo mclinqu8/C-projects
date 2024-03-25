@@ -1,0 +1,14 @@
+cmd> add 6987 1
+
+cmd> add 3041 1
+
+cmd> add 5678 1
+
+cmd> list order
+ID   Name                 Quantity Category        Cost
+6987 Grilled Cheese              1 Sandwich        $  8.90
+5678 Hot Fudge Sundae            1 Dessert         $  6.75
+3041 Lemonade                    1 Beverage        $  1.75
+Total                                              $ 17.40
+
+cmd> quit

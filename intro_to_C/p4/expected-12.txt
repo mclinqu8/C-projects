@@ -1,0 +1,25 @@
+cmd> add 7127 4
+
+cmd> add 4204 2
+
+cmd> add 0196 3
+
+cmd> add 3990 1
+
+cmd> add 2627 5
+
+cmd> remove 2627 3
+
+cmd> remove 3990 1
+
+cmd> remove 0196 2
+
+cmd> list order
+ID   Name                 Quantity Category        Cost
+4204 HTUXYPtclYODBsL             2 Beverage        $ 38.80
+7127 EtVnyCVWBzUNAFtSuUEO        4 Appetizer       $ 32.32
+0196 AuIGafit                    1 Entree          $ 18.93
+2627 ZkzQYcjE                    2 Pizza           $  4.92
+Total                                              $ 94.97
+
+cmd> quit

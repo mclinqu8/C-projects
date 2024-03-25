@@ -1,0 +1,10 @@
+cmd> list menu
+ID   Name                 Category        Cost
+1897 Iced Tea             Beverage        $  1.99
+2095 Mountain Dew         Beverage        $  1.99
+3045 Chocolate Cream Pie  Dessert         $  4.75
+1012 Surf and Turf        Entree          $ 27.55
+2004 Wedge Salad          Salad           $  6.75
+2478 Broccoli Cheddar     Soup            $  4.75
+
+cmd> quit

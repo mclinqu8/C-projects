@@ -1,0 +1,5 @@
+list menu xyz
+list3
+add 3498 1
+remove 1234
+quit

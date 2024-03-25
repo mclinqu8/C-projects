@@ -1,0 +1,3 @@
+abcdefghijklmnopqrstuvwxyz is a list of all the lower-case letters.
+here's two copies of it: abcdefghijklmnopqrstuvwxyz, abcdefghijklmnopqrstuvwxyz
+And, here's ten of them: abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz 

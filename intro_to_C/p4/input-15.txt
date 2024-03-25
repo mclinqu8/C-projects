@@ -1,0 +1,6 @@
+list skill Collections
+list assignment JobMarket
+list Available
+list Nothing
+list assignment Available 123
+quit

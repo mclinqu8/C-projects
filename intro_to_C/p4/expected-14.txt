@@ -1,0 +1,13 @@
+cmd> list menu xyz
+Invalid command
+
+cmd> list3
+Invalid command
+
+cmd> add 3498 1
+Invalid command
+
+cmd> remove 1234
+Invalid command
+
+cmd> quit

@@ -1,0 +1,4 @@
+add 6987 1
+remove 6987 1
+add 3041 1
+quit

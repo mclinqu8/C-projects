@@ -1,0 +1,11 @@
+list menu
+list category Dessert
+add 5678 3
+add 1897 1
+add 4012 2
+add 5103 1
+list order
+remove 5678 1
+remove 1897 1
+list order
+quit

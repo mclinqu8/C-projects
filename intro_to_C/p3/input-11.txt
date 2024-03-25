@@ -1,0 +1,3 @@
+ABCs is a list of all the lower-case letters.
+here's two copies of it: ABCs, ABCs
+And, here's ten of them: ABCs ABCs ABCs ABCs ABCs ABCs ABCs ABCs ABCs ABCs 

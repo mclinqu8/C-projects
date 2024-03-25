@@ -1,0 +1,10 @@
+#include <stdlib.h>
+#include <stdio.h>
+
+int main()
+{
+  for ( int i = 0; i < COUNT; i++ )
+    printf( "Hello World.\n" );
+  
+  return EXIT_SUCCESS;
+}

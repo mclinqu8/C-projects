@@ -1,0 +1,77 @@
+cmd> list menu
+ID   Name                 Category        Cost
+4857 Crab Dip             Appetizer       $  8.90
+7654 Cheese Potatoes      Appetizer       $  9.85
+9087 Nachos               Appetizer       $  7.89
+1897 Iced Tea             Beverage        $  1.99
+2095 Mountain Dew         Beverage        $  1.99
+3041 Lemonade             Beverage        $  1.75
+4012 Coffee               Beverage        $  1.55
+5103 Raspberry Tea        Beverage        $  1.99
+3045 Chocolate Cream Pie  Dessert         $  4.75
+3054 Lemon Chiffon Cake   Dessert         $  4.75
+5678 Hot Fudge Sundae     Dessert         $  6.75
+7800 Peach Cobbler        Dessert         $  5.65
+1012 Surf and Turf        Entree          $ 27.55
+1013 Spaghetti            Entree          $ 10.95
+7865 Grilled Salmon       Entree          $ 21.95
+2004 Wedge Salad          Salad           $  6.75
+2014 Cajun Chicken Salad  Salad           $ 16.75
+9017 Chopped Salad        Salad           $ 13.90
+6980 Cheeseburger         Sandwich        $ 10.45
+6987 Grilled Cheese       Sandwich        $  8.90
+2478 Broccoli Cheddar     Soup            $  4.75
+
+cmd> list category Beverage
+ID   Name                 Category        Cost
+1897 Iced Tea             Beverage        $  1.99
+2095 Mountain Dew         Beverage        $  1.99
+3041 Lemonade             Beverage        $  1.75
+4012 Coffee               Beverage        $  1.55
+5103 Raspberry Tea        Beverage        $  1.99
+
+cmd> list category Xyz
+ID   Name                 Category        Cost
+
+cmd> list order
+ID   Name                 Quantity Category        Cost
+Total                                              $  0.00
+
+cmd> add 6987 2
+
+cmd> add 7654 3
+
+cmd> add 5678 2
+
+cmd> list category Dessert
+ID   Name                 Category        Cost
+3045 Chocolate Cream Pie  Dessert         $  4.75
+3054 Lemon Chiffon Cake   Dessert         $  4.75
+5678 Hot Fudge Sundae     Dessert         $  6.75
+7800 Peach Cobbler        Dessert         $  5.65
+
+cmd> list order
+ID   Name                 Quantity Category        Cost
+7654 Cheese Potatoes             3 Appetizer       $ 29.55
+6987 Grilled Cheese              2 Sandwich        $ 17.80
+5678 Hot Fudge Sundae            2 Dessert         $ 13.50
+Total                                              $ 60.85
+
+cmd> remove 6987 2
+
+cmd> list order
+ID   Name                 Quantity Category        Cost
+7654 Cheese Potatoes             3 Appetizer       $ 29.55
+5678 Hot Fudge Sundae            2 Dessert         $ 13.50
+Total                                              $ 43.05
+
+cmd> add 6987 3
+
+cmd> list order 
+ID   Name                 Quantity Category        Cost
+7654 Cheese Potatoes             3 Appetizer       $ 29.55
+6987 Grilled Cheese              3 Sandwich        $ 26.70
+5678 Hot Fudge Sundae            2 Dessert         $ 13.50
+Total                                              $ 69.75
+
+cmd> quit

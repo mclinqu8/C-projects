@@ -1,0 +1,10 @@
+add 9087 1
+add 7654 2
+remove 7654 1
+add 9017 3
+add 1013 2
+remove 9017 3
+add 1012 1
+add 4012 2
+list order
+quit

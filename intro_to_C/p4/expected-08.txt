@@ -1,0 +1,26 @@
+cmd> add 9087 1
+
+cmd> add 7654 2
+
+cmd> remove 7654 1
+
+cmd> add 9017 3
+
+cmd> add 1013 2
+
+cmd> remove 9017 3
+
+cmd> add 1012 1
+
+cmd> add 4012 2
+
+cmd> list order
+ID   Name                 Quantity Category        Cost
+1012 Surf and Turf               1 Entree          $ 27.55
+1013 Spaghetti                   2 Entree          $ 21.90
+7654 Cheese Potatoes             1 Appetizer       $  9.85
+9087 Nachos                      1 Appetizer       $  7.89
+4012 Coffee                      2 Beverage        $  3.10
+Total                                              $ 70.29
+
+cmd> quit

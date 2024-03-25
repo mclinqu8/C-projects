@@ -1,0 +1,9 @@
+This is a
+file with several
+lines.
+Most of the lines are shorter than the default line length, except this one.
+There's even a blank line right here:
+
+And a line with just
+1
+character.

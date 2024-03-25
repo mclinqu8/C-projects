@@ -1,0 +1,4 @@
+most lines of text
+have a newline character
+at the end, but not
+this One.

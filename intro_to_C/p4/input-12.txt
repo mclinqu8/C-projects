@@ -1,0 +1,10 @@
+add 7127 4
+add 4204 2
+add 0196 3
+add 3990 1
+add 2627 5
+remove 2627 3
+remove 3990 1
+remove 0196 2
+list order
+quit

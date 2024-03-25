@@ -1,0 +1,4 @@
+The text of this file
+doesn't matter.  It's
+used for a test with invalid
+arguments.

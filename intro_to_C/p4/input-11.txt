@@ -1,0 +1,6 @@
+add 6875 3
+add 6383 1
+add 4288 5
+add 0992 2
+list order
+quit

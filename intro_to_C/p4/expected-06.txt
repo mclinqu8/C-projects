@@ -1,0 +1,13 @@
+cmd> list category Entree
+ID   Name                 Category        Cost
+1012 Surf and Turf        Entree          $ 27.55
+1013 Spaghetti            Entree          $ 10.95
+7865 Grilled Salmon       Entree          $ 21.95
+
+cmd> list category Salad
+ID   Name                 Category        Cost
+2004 Wedge Salad          Salad           $  6.75
+2014 Cajun Chicken Salad  Salad           $ 16.75
+9017 Chopped Salad        Salad           $ 13.90
+
+cmd> quit

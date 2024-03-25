@@ -1,0 +1,14 @@
+list menu
+list category Beverage
+list category Xyz
+list order
+add 6987 2
+add 7654 3
+add 5678 2
+list category Dessert
+list order
+remove 6987 2
+list order
+add 6987 3
+list order 
+quit

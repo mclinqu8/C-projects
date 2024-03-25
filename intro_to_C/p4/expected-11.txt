@@ -1,0 +1,17 @@
+cmd> add 6875 3
+
+cmd> add 6383 1
+
+cmd> add 4288 5
+
+cmd> add 0992 2
+
+cmd> list order
+ID   Name                 Quantity Category        Cost
+0992 IbXQZbeZmtrhoguPD           2 Pizza           $ 33.06
+6875 SlxQjsgDskmkfSsCHo          3 Soup            $ 24.60
+4288 z LDviEmWF                  5 Sandwich        $ 22.15
+6383 hFiFpedwLS                  1 Seafood         $ 18.67
+Total                                              $ 98.48
+
+cmd> quit
